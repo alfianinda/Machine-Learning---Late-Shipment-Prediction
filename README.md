@@ -5,9 +5,11 @@
 
 > Late shipment prediction using machine learning algorithm
 
+
 ## Dataset
 
 > https://www.kaggle.com/prachi13/customer-analytics
+
 
 ## Outline
 
@@ -21,6 +23,18 @@
 ## Objective
 
 > Create a system to help predict and calculate late shipment automatically
+
+
+## Business Metrics
+
+> Reduce Late Shipment
+>> Reduce number of occurrence of late shipment
+
+> Reduce Churned Customers
+>> Estimate the percentage of customers that most likely to churned 
+
+> Increase Potential Gross Profit
+>> Estimate potential gross profit earned by Electroux
 
 
 ## Summary of Findings
