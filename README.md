@@ -57,5 +57,5 @@
 ## Developer
 
 - **NUR INNA ALFIANINDA**
-**ni.alfianinda@gmail.com**
+- **ni.alfianinda@gmail.com**
 
