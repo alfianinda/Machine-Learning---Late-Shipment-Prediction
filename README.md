@@ -14,7 +14,7 @@
 ## Outline
 
 - Data Extraction
-- Exploratory Data AnaPercentage_of_churned_customers_reducelysis
+- Exploratory Data Analysis
 - Data Preparation
 - Model Evaluation
 - Churned Customer and Potential Gross Profit Calculation
