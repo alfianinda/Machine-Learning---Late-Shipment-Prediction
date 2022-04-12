@@ -28,13 +28,13 @@
 ## Business Metrics
 
 - Reduce Late Shipment
-> Reduce number of occurrence of late shipment
+    - Reduce number of occurrence of late shipment
 
 - Reduce Churned Customers
-> Estimate the percentage of customers that most likely to churned 
+    - Estimate the percentage of customers that most likely to churned 
 
 - Increase Potential Gross Profit
-> Estimate potential gross profit earned by Electroux
+    - Estimate potential gross profit earned by Electroux
 
 
 ## Summary of Findings
