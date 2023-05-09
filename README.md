@@ -64,5 +64,5 @@ https://alfianinda.github.io/Machine-Learning-Late-Shipment-Prediction/
 
 > **NUR INNA ALFIANINDA**
 
-> http://cv.alamazed.com/
+> https://cv.alamazed.com/data/
 
