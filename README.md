@@ -57,8 +57,7 @@
 
 ## Codes
 
-
-## Results
+https://alfianinda.github.io/Machine-Learning-Late-Shipment-Prediction/
 
 
 ## Developer
