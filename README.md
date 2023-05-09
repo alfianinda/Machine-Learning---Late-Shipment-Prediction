@@ -54,9 +54,16 @@
 - Evaluating features that affect to the arrival time would help to recommend and handle the factors affecting late shipment
 - Since the feature that influences the most is the 'discount offered', if analysed, logically if an e-commerce company gives a lot of discounts, there will be many transactions. Of course this will affect the increasing number of product shipments on couriers or shipping expeditions which cause overload and delay in delivery. Therefore, we recommend to add shipping options, especially for Express Delivery (1 Day), and additional workers to support the new shipping options.
 
+
+## Codes
+
+
+## Results
+
+
 ## Developer
 
 > **NUR INNA ALFIANINDA**
 
-> ni.alfianinda@gmail.com
+> http://cv.alamazed.com/
 
